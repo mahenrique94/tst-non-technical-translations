@@ -1,0 +1,1 @@
+{"c":["pages/_app","webpack"],"r":[],"m":["./next-i18next.config.js","./node_modules/cross-fetch/dist/browser-ponyfill.js","./node_modules/i18next-http-backend/cjs/getFetch.js","./node_modules/i18next-http-backend/cjs/index.js","./node_modules/i18next-http-backend/cjs/request.js","./node_modules/i18next-http-backend/cjs/utils.js"]}

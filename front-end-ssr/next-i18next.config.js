@@ -23,7 +23,7 @@ module.exports = {
     escapeValue: false,
   },
   ns: ['translations'],
-  // serializeConfig: false,
+  serializeConfig: false,
   use: [
     require('i18next-http-backend'),
   ],
